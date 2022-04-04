@@ -1,0 +1,2 @@
+# CloryBoostApp
+ .NET Framework, WinFormApp
